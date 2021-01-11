@@ -1,0 +1,8 @@
+﻿+ Restore Settings for ExpandAll treeview
++ Add creating a New .ini (from the "new" menu item)
++ Add code to exit app form menu item
++ set all proper anchoring for resizing window
++ Add color scheme (Nord)
++ Add ability to set as ini protocol handler in windows
++ Command line to open ini from passed path
++ Tabs for multiple ini?
